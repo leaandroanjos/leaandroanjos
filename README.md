@@ -1,9 +1,8 @@
 Olá! Eu me Chamo Leandro dos Anjos
 
-Primeiro exemplo de commit e push no repositório remoto.
+Tenho 19 Anos
+Gosto muito de praticar esportes e me manter ativo!
 
-Segundo Commit
+Estou cursando o Bacharel em Ciência e Tecnologia na Universidade federal do ABC
 
-Terceiro Commit
-
-Quarto Commit
+Atualmente estou estudando Java porém tenho breve conhecimento em outras linguagens como Python, por exemplo.
