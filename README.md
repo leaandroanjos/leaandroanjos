@@ -9,5 +9,5 @@ Atualmente estou estudando Java porém tenho breve conhecimento em outras lingua
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leaandroanjos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaandroanjos"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaandroanjos&theme=tokyonight&show_icons=true"/>
 </div>
