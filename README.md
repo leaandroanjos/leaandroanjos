@@ -7,4 +7,6 @@ Estou cursando o Bacharel em Ciência e Tecnologia na Universidade federal do AB
 
 Atualmente estou estudando Java porém tenho breve conhecimento em outras linguagens como Python, por exemplo.
 
-https://github-readme-stats.vercel.app/api?username=leaandroanjos&hide=stars
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leaandroanjos&hide=stars"/>
+</div>
