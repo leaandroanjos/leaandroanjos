@@ -8,7 +8,3 @@ Estou cursando o Bacharel em Ciência e Tecnologia na Universidade federal do AB
 Faço aplicações para vendedores de ecommerce otimizarem as suas vendas e melhorarem seus anúncios 🚀
 
 Tenho um bom domínio sobre POO, Modelagem de entidades, TDD, e AWS.
-
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaandroanjos&theme=tokyonight&show_icons=true"/>
-</div>
