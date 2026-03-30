@@ -6,5 +6,3 @@ Gosto muito de praticar esportes e me manter ativo! 🎾
 Estou cursando o Bacharel em Ciências da Computação na Universidade federal do ABC 💻
 
 Faço aplicações para vendedores de ecommerce otimizarem as suas vendas e melhorarem seus anúncios 🚀
-
-Tenho um bom domínio sobre POO, Modelagem de entidades, TDD, e AWS.
